@@ -1,0 +1,110 @@
+body{
+    color:hsl(0, 9%, 98%);
+    background-color: hsl(0, 25%, 10%);
+    margin: auto;
+    font-family: poppins;
+}
+header{
+    margin:10px;
+
+    
+    
+}
+hr{ 
+   border: 0.1px solid hsl(11, 11%, 28%);
+}
+img{
+    width: 200px;
+    padding: 5px 10px;;
+}
+main{
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+    
+    padding: 50px ;
+    padding-left: 10px;
+    padding-right: 0;
+    
+}
+p{
+    font-size: 1.7em;
+}
+.p3{
+    font-size: 1.3em;
+}
+
+ul{
+    float: right;
+    padding: 0;
+    list-style-type: none;
+    background-color: hsl(0, 25%, 10%);
+    padding: 5px 10px;
+    display: flex;
+}
+
+ul li {
+    float: left;
+    
+}
+ul li a{
+    display: block;
+    color: hsl(0, 9%, 98%);
+    padding: 10px 16px;
+    text-align: center;
+}
+#btnNav{
+     
+    padding: 5px 10px;
+
+}
+
+#divine{
+    padding-top: 20px;
+    
+    box-sizing: border-box;
+}
+
+
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 2.3em;
+}
+
+#emailBox{
+    background-color:hsl(0, 25%, 15%)  ;
+    padding: 15px 40px;
+    text-align: left;
+    border-radius: 5px;
+}
+#emailBox2{
+    background-color: hsl(0, 25%, 10%);
+    padding: 5px 60px;
+    border-bottom: 1px groove hsl(0, 25%, 15%);
+}
+button{
+    font-family: 'jet brains';
+    background-color: hsl(0, 25%, 10%);
+    font-size: 1.5em;
+    border-radius: 25px;
+    padding: 10px 15px ;
+    color:white;
+}
+
+
+a{
+    text-decoration: none;
+    background-color: none;
+    
+}
+#img2{
+
+    width: 300px;
+}
+footer{
+    border-top: 1px groove hsl(11, 11%, 28%);
+    height: 550px;
+}
+
